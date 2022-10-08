@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    .container{
+        width: 85%;
+        margin: auto;
+    }
+    .header h1{
+        font-size: 20px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .header h3{
+        font-size: 15px;
+        padding-top: 10px;
+    }
+    .header p{
+        font-size: 10px;
+        padding-top: 10px;
+    }
+   
+    .object h1{
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    .object p{
+        text-indent: 10px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .education h1{
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .education h3{
+        font-size: 15px;
+        padding:10px 0;
+    }
+    
+    .education ul li{
+       font-size: 15px;
+       line-height: 20px;
+    }
+    .skils h1{
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .skils ul li{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .git h1{
+    font-size: 18px;
+    padding: 10px 0;
+    }
+    .info h1{
+        font-size: 18px;
+        padding-top: 20px ;
+        padding-bottom: 10px;
+       
+    }
+    .info p{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .declare h1{
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .declare p{
+        font-size: 15px;
+    }
+    .declare .para{
+        text-align: center;
+        padding: 10px 0;
+    }
+    .footer h2{
+        padding: 10px 0;
+
+}
+.footer p{
+    font-size: 15px;
+}
+
+@media(min-width:760px){
+    .container{
+        width: 730px;
+        margin: auto;
+    }
+    .header h1{
+        font-size: 25px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .header h3{
+        font-size: 20px;
+        padding-top: 10px;
+    }
+    .header p{
+        font-size: 15px;
+        padding-top: 10px;
+    }
+   
+    .object h1{
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    .object p{
+        text-indent: 10px;
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .education h1{
+        font-size: 22px;
+        padding: 10px 0;
+    }
+    .education h3{
+        font-size: 20px;
+        padding:10px 0;
+    }
+    
+    .education ul li{
+       font-size: 17px;
+       line-height: 20px;
+    }
+    .skils h1{
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .skils ul li{
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .git h1{
+    font-size: 22px;
+    padding: 10px 0;
+    }
+    .info h1{
+        font-size: 18px;
+        padding-top: 20px ;
+        padding-bottom: 10px;
+       
+    }
+    .info p{
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .declare h1{
+        font-size: 22px;
+        padding: 10px 0;
+    }
+    .declare p{
+        font-size: 17px;
+    }
+    .declare .para{
+        text-align: center;
+        padding: 15px 0;
+    }
+    .footer h2{
+        padding: 15px 0;
+    }
+.footer p{
+    font-size: 17px;
+}
+}
+@media(min-width:950px){
+    .container{
+        width:900px;
+        margin: auto;
+    }
+    .header h1{
+        font-size: 30px;
+        text-align: center;
+        padding-top:20px;
+    }
+    .header h3{
+        font-size: 25px;
+        padding-top: 20px;
+    }
+    .header p{
+        font-size: 20px;
+        padding-top: 20px;
+    }
+   
+    .object h1{
+        font-size: 25px;
+        padding-top: 20px;
+    }
+    .object p{
+        text-indent: 15px;
+        font-size: 20px;
+        line-height: 30px;
+        padding: 7px 0;
+    }
+    .education h1{
+        font-size: 25px;
+        padding: 20px 0;
+    }
+    .education h3{
+        font-size: 25px;
+        padding:10px 0;
+    }
+    
+    .education ul li{
+       font-size: 20px;
+       line-height: 30px;
+    }
+    .skils h1{
+        font-size: 25px;
+        padding: 10px 0;
+    }
+    .skils ul li{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .git h1{
+    font-size: 25px;
+    padding: 25px 0;
+    }
+    .info h1{
+        font-size: 25px;
+        padding-top: 25px ;
+        padding-bottom: 25px;
+       
+    }
+    .info p{
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .declare h1{
+        font-size: 25px;
+        padding: 10px 0;
+    }
+    .declare p{
+        font-size: 20px;
+    }
+    .declare .para{
+        text-align: center;
+        padding: 10px 0;
+    }
+    .footer h2{
+        padding: 10px 0;
+    }
+}
